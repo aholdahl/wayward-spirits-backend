@@ -1,8 +1,6 @@
 package dbrepo
 
 import (
-	"backend/internal/models"
-	"context"
 	"database/sql"
 	"time"
 )

@@ -1,11 +1,11 @@
 package main
 
 import (
-	"backend/internal/repository"
-	"backend/internal/repository/dbrepo"
 	"flag"
 	"fmt"
 	"log"
+	"main/internal/repository"
+	"main/internal/repository/dbrepo"
 	"net/http"
 	"time"
 )

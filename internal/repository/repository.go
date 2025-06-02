@@ -1,7 +1,6 @@
 package repository
 
 import (
-	"backend/internal/models"
 	"database/sql"
 )
 
